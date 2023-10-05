@@ -1,0 +1,141 @@
+/* Main - Textura general*/
+main {
+  background-image: url(../img/textura-blanca.jpg);
+}
+
+/* Header*/
+header {
+  background-color: #fafafa;
+  border-bottom: 3px solid rgb(102, 102, 102);
+  font-size: 25px;
+}
+
+.logo {
+  width: 100px;
+  margin: 15px;
+}
+
+/* Carousel Index */
+.carousel {
+  padding: 30px;
+  margin-bottom: 30px;
+  height: 50%;
+}
+
+/* Footer */
+footer {
+  background-color: #fafafa;
+  padding-top: 15px;
+  border-top: 3px solid rgb(102, 102, 102);
+}
+
+.bi-facebook {
+  width: 25%;
+}
+
+.bi-instagram {
+  width: 35%;
+}
+
+/* Menu Productos */
+.section-header {
+  padding-top: 25px;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+h3 {
+  background-color: rgb(201, 104, 104);
+  color: #fafafa;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.price {
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(201, 104, 104);
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h4 {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+
+.ingredients {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+
+.menu-item {
+  border-bottom: solid 2px rgb(102, 102, 102);
+}
+
+/*Contacto Form*/
+form {
+  margin: 25px;
+}
+
+.form-control {
+  border: 1px solid rgb(102, 102, 102);
+}
+
+.btnForm {
+  background-color: rgb(201, 104, 104);
+  border: rgb(139, 61, 61) solid 1px;
+  margin-top: 25px;
+}
+
+/* Tarjetas Index */
+.row {
+  padding: 25px;
+}
+
+.card {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(201, 104, 104);
+}
+
+.card-title {
+  font-size: 25px;
+  color: #fafafa;
+}
+
+.btnIndex {
+  background-color: #fafafa;
+  font-weight: bold;
+}
+
+/* Menu frecuentes */
+.texto {
+  font-weight: bold;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.desc {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+}
+
+/*# sourceMappingURL=style.css.map */
